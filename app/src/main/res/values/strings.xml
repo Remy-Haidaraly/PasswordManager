@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+
+    <string name="txt_welcomeApp">Password Manager</string>
+    <string name="txt_email_connexion">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_forgotPassword">Forgot your password ?</string>
+    <string name="btn_signIn">Sign In</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_google">Sign in with Google</string>
+
+    <string name="txt_createAccount">Create your account</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_pseudo">Pseudo</string>
+    <string name="txt_password_createAccount">Password</string>
+    <string name="txt_passwordConfirm">Confirm your password</string>
+    <string name="btn_signIn_signIn">Sign In</string>
+    <string name="txt_alreadyAnAccount">Forgot your password ?</string>
+
+    <string name="txt_recoverPassword">Recover your password</string>
+    <string name="txt_email_recover">Email</string>
+    <string name="btn_recover">Recover</string>
+    <string name="txt_homePage">Home page</string>
+
+    <string name="textWelcome">Welcome</string>
+    <string name="nameUser">Name</string>
+    <string name="btn_addWebsite">Add a new website</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="txt_createWebsite">Create a new website</string>
+    <string name="txt_nameWebsiteModify">Name</string>
+    <string name="txt_urlModify">URL</string>
+    <string name="txt_loginWebsiteModify">Login</string>
+    <string name="txt_passwordWebsiteModify">Password</string>
+    <string name="checkBox_showPassword_modify">Show password</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+    <string name="txt_backModify">Back</string>
+
+    <string name="txt_modifyWebsite">Modify a website</string>
+    <string name="txt_nameWebsite">Name</string>
+    <string name="txt_url">URL</string>
+    <string name="txt_loginWebsite">Login</string>
+    <string name="txt_passwordWebsite">Password</string>
+    <string name="checkBox_showPassword_create">Show password</string>
+    <string name="btn_generatePassword">Generate a password</string>
+    <string name="btn_createWebsite">Create</string>
+    <string name="txt_back">Back</string>
+
+    <string name="txt_generate_password">Generate a password</string>
+    <string name="txt_length">Length</string>
+    <string name="opt_full">Full (with uppers and lowers letters, special characters and numbers)</string>
+    <string name="opt_numbers">Only numbers</string>
+    <string name="btn_generate">Generate</string>
+    <string name="btn_copy">Validate</string>
+</resources>
